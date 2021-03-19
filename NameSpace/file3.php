@@ -2,7 +2,7 @@
 
     namespace hp;
 
-    class Mouse {
+    class Mouse                  {
 
         static function says()
         {
