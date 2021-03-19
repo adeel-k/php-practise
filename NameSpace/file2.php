@@ -2,11 +2,11 @@
 
     namespace computer;
 
-    class Hp{
+    class Dell{
 
         static function says()
         {
-            echo 'Fast computer hp';
+            echo 'Fast computer dell';
 
         }
 

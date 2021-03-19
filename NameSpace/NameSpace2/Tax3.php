@@ -2,11 +2,11 @@
 
 namespace tax3;
 
-class Net{
+class Office{
 
     static function says(){
 
-        print "interNet 3rd tax clear";
+        print "office 3rd tax clear";
 
     }
 

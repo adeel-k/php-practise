@@ -2,11 +2,11 @@
 
 namespace tax1;
 
-class Car{
+class Home{
 
     static function says(){
 
-        print "corola car 1st tax clear ";
+        print "Home maintenance 1st tax clear ";
 
     }
 

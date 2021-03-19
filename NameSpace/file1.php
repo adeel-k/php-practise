@@ -2,12 +2,12 @@
 
 namespace bike;
 
-class Honda{
+class Superstar{
 
     static function says()
 
     {
-        echo "Nice bike honda storm bike";
+        echo "Nice bike superstar storm bike";
     }
 
 }
