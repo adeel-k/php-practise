@@ -18,7 +18,7 @@ class office{
 
 class Mediapark extends office{
 
-        public static $my_word = 'MedoiaPark';
+        public static $my_word = 'MediaPark';
 
         public function offStatic(){
          return  Mediapark::$my_word;
