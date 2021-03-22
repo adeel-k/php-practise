@@ -31,7 +31,7 @@ class Students{
 
 
 $std = new Students();
-$std->count()
+$std
     ->count()
     ->count()
     ->count()
@@ -57,5 +57,4 @@ $std2 = new Students();
 
 print '2 absent 1 leave'. '<br/>';
 
-print 'The total number 15 '. '<br/>';
-
+print 'The total Students 14 '. '<br/>';
