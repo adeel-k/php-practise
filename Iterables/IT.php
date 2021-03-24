@@ -1,16 +1,16 @@
 <?php
 
-class It{
+class Admin{
 
-    public $a = "php developer in salary minimum";
-    public $b = '50K';
+    public $a = "Admin in salary minimum";
+    public $b = '40K';
 
 
 }
 
-$job = new It;
+$jb = new Admin();
 
-foreach($job as $info){
+foreach($jb as $info){
     echo $info . ' ';
 }
 
