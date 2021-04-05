@@ -13,3 +13,5 @@
     echo(tanh(-5)
         . "<br><br>");
     echo(tanh(-10));
+
+
