@@ -2,7 +2,7 @@
 
     echo(tanh(M_PI_4)
         . "<br><br>");
-    echo(tanh(1000)
+    echo(tanh(100)
         . "<br><br>");
     echo(tanh(-0.50)
         . "<br><br>");
