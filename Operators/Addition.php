@@ -10,7 +10,7 @@
     Enter Second Number:
                     <input type="number" name="number2"/><br><br>
 
-                <input type="submit" name="submit" value="Add">
+                <input type="submit" name="submit" value="Add   ">
 
 </form>
 <?php

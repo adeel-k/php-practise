@@ -2,7 +2,7 @@
 <?php
 
 
-//Logical Operator  
+//Logical Operator
 
     $x = 100;
 
